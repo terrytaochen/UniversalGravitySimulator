@@ -23,5 +23,6 @@ java Collisions 3 30 20 1 1
 GUI:
 
 java Collisions 3 30 20 1 2
+
 Note:
 When choose type 2, we will ignore all of these arguments, you will need to input in GUI view again. 
